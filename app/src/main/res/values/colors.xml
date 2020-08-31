@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#323639</color>
+    <color name="colorPrimaryDark">#a6dcef</color>
+    <color name="colorAccent">#366bef</color>
+
+    <color name="darkgrey">#323639</color>
+    <color name="darkgrey2">#474C52</color>
+    <color name="lightGrey">#868686</color>
+    <color name="lightGrey2">#CECECE</color>
+
+    <color name="card_bg_color">#f6f6f6</color>
+    <color name="card_bg_dark_color">#0e0e0e</color>
+
+
+    <color name="colorcardbg">#FFFFFF</color>
+    <color name="daps_logo_color">#19568C</color>
+
+<!--    <color name="test">#c2f0fc</color>-->
+<!--    profile 1-->
+<!--    <color name="main_background">#bbe1fa</color>-->
+<!--    <color name="icon_background">#3282b8</color>-->
+<!--    <color name="viewcolor">#eeeeee</color>-->
+
+<!--    <color name="page_text_color">#757575</color>-->
+<!--    <color name="page_text_bold">#212121</color>-->
+
+<!--    <color name="ic_icon_color">#ffffff</color>-->
+<!--    <color name="ic_icon_border">@color/ic_icon_color</color>-->
+
+<!--    profile 2-->
+<!--    <color name="main_background">#ddf3f5</color>-->
+<!--    <color name="icon_background">#a6dcef</color>-->
+
+<!--    <color name="main_background">#ecfbfc</color>-->
+<!--    <color name="icon_background">#a6dcef</color>-->
+
+<!--    <color name="viewcolor">#ffffff</color>-->
+
+<!--    profile 3-->
+<!--    <color name="main_background">#c2f0fc</color>-->
+<!--    <color name="icon_background">#ffd1bd</color>-->
+
+<!--    <color name="viewcolor">#ffffff</color>-->
+
+
+<!--    <color name="page_text_color">#ffb0cd</color>-->
+<!--    <color name="page_text_bold">#757575</color>-->
+
+<!--    <color name="ic_icon_color">#ffffff</color>-->
+<!--    <color name="ic_icon_border">@color/ic_icon_color</color>-->
+
+
+
+
+        <color name="main_background">#ddf3f5</color>
+        <color name="icon_background">#a6dcef</color>
+        <color name="viewcolor">#eeeeee</color>
+
+        <color name="page_text_color">#757575</color>
+        <color name="page_text_bold">#eca0b6</color>
+
+        <color name="ic_icon_color">#ffffff</color>
+        <color name="ic_icon_border">@color/ic_icon_color</color>
+
+
+
+
+
+
+    <!--    <color name="colormiddlelogo">#ed6902</color>-->
+    <color name="color_blue_theme">#366bef</color>
+    <color name="darkgreylighter">#3B3F42</color>
+
+    <color name="red">#535353</color>
+    <color name="black">#000000</color>
+    <color name="color_card_text">#000000</color>
+    <color name="avail_color">#64DD17</color>
+    <color name="background_red">#D50000</color>
+    <color name="background_red2">#e10000</color>
+    <color name="background_red3">#C0120B</color>
+    <color name="card_view_final_child_text_color">#000000</color>
+    <color name="card_view_final_bg_color">#7f7f7f</color>
+    <color name="card_view_type_final_bg_color">#595959</color>
+</resources>

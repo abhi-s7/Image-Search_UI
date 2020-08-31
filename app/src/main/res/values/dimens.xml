@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_common_margin">@dimen/_4sdp</dimen>
+    <dimen name="save_share_button">40dp</dimen>
+    <dimen name="ic_save_share_size">24dp</dimen>
+    <dimen name="button_padding">12dp</dimen>
+    <dimen name="search_view_size">24dp</dimen>
+
+</resources>
